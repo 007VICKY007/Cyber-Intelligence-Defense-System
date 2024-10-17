@@ -1,4 +1,4 @@
-# Universal Cybersecurity AI Project
+# Cyber Intelligence Defense System
 
 Welcome to the Universal Cybersecurity AI project! This project aims to develop an advanced AI system capable of detecting and preventing various cyber threats in real-time, including phishing attacks, malware infections, ransomware attacks, and insider threats. The AI will analyze network traffic patterns, identify anomalies indicating potential threats, and provide recommendations for mitigating associated risks.
 
